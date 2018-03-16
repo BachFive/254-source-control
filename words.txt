@@ -2,3 +2,8 @@ correct
 battery
 horse
 staple
+big 
+black
+misdirection
+exelsior
+
